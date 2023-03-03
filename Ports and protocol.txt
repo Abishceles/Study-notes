@@ -39,3 +39,7 @@ What ports and protocols are used for sending/receiving emails?
 SMTP and Email
 
 There are three common protocols used to deliver email over the Internet: the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP). All three use TCP, and the last two are used for accessing electronic mailboxes.
+
+Types of execution
+Serial - bit bu bit
+parallel - group of bits
