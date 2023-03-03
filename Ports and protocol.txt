@@ -1,0 +1,41 @@
+ What is meant by ports and protocol ?
+
+            A port in networking is a software-defined number associated to a network protocol that receives or transmits communication for a  specific  service. A port in computer hardware is a jack or socket that peripheral hardware plugs into.
+
+ WhaT IS PORT ?
+            A port is a virtual point where network connections start and end. Ports are software-based and managed by a computer's operating system. Each port is associated with a specific process or service.
+
+What is protocol
+            A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design.
+
+Why it is used ?
+           Ports allow computers to easily differentiate between different kinds of traffic: emails go to a different port than webpages, for instance, even though both reach a computer over the same Internet connection.
+
+Types of protocols?
+            There are three main types of network protocols. These include network management protocols, network communication protocols and network security protocols: Communication protocols include basic data communication tools like TCP/IP and HTTP.
+
+What are the 4 types of protocols?
+          Transmission Control Protocol (TCP) Internet Protocol (IP) User Datagram Protocol (UDP) Post office Protocol (POP)
+
+Types of ports ?
+        There are different types of ports available: Serial port. Parallel port. USB port.
+
+What are the two most commonly used protocols?
+Network Communication Protocols
+     HTTP – One of the most familiar protocols, hyper text transfer protocol (HTTP) is often referred to as the protocol of the internet. ...
+     TCP – Transmission Control Protocol (TCP) separates data into packets that can be shared over a network.
+
+Some of the most commonly used ports, along with their associated networking protocol, are:
+Ports 20 and 21: File Transfer Protocol (FTP). ...
+Port 22: Secure Shell (SSH). ...
+Port 25: Historically, Simple Mail Transfer Protocol (SMTP). ...
+Port 53: Domain Name System (DNS). ...
+Port 80: Hypertext Transfer Protocol (HTTP).
+
+What are the port number and protocol used when emails are sent and received?
+     Communication between mail servers generally uses the standard TCP port 25 designated for SMTP.
+
+What ports and protocols are used for sending/receiving emails?
+SMTP and Email
+
+There are three common protocols used to deliver email over the Internet: the Simple Mail Transfer Protocol (SMTP), the Post Office Protocol (POP), and the Internet Message Access Protocol (IMAP). All three use TCP, and the last two are used for accessing electronic mailboxes.
